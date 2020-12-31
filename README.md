@@ -11,7 +11,7 @@ Az egyszerűbb és a "szerkezetesebb" megoldás
 
  A Youtube videó linkje:
 
-
+[https://www.youtube.com/watch?v=gBs1m9ljlFI](https://www.youtube.com/watch?v=gBs1m9ljlFI)
 
 
 
