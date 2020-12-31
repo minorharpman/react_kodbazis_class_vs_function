@@ -7,6 +7,7 @@ Kódbázis "Class komponens" videó - gyakorlás:
 
 
 Az egyszerűbb és a "szerkezetesebb" megoldás
+- Melyik lesz később a áttekinthető kód?
 
  A Youtube videó linkje:
 
