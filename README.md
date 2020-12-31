@@ -6,6 +6,7 @@ Kódbázis "Class komponens" videó - gyakorlás:
 [https://kodbazis.hu/react-kurzus/class-komponens](https://kodbazis.hu/react-kurzus/class-komponens)
 
 
+Az egyszerűbb és a "szerkezetesebb" megoldás
 
  A Youtube videó linkje:
 
