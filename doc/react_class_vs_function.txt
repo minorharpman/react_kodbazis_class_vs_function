@@ -1,0 +1,17 @@
+
+K�db�zis:
+https://kodbazis.hu/react-kurzus/class-komponens
+
+npx create-react-app react_kodbazis_class_vs_function
+
+cd  react_kodbazis_class_vs_function
+
+npm install bootstrap
+
+npm install react-router-dom –save
+
+npm start
+
+
+
+
